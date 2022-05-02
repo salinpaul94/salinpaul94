@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @salinpaul94
-- 👀 I’m interested in python, js, html5, css
-- 🌱 I’m currently learning python
-- 📫 How to reach me salinpv@hotmail.com
+- 👀 I’m interested in java, sql, python, js, html5, css
+- 🌱 I’m currently learning java, sql, python
+- 📫 How to reach me salinpv@hotmail.com, salinpv@gmail.com
