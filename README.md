@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @salinpaul94
-- 👀 I’m interested in java, sql, python, js, html5, css
-- 🌱 I’m currently learning java, sql, python
+- 👀 My skills are ruby, rails, java, sql, python, js, html5, css
 - 📫 How to reach me salinpv@hotmail.com, salinpv@gmail.com
